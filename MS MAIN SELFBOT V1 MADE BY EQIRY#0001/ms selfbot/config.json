@@ -1,0 +1,11 @@
+{
+    "token": "token",
+    "password": "discord-password",
+    "prefix": "prefix",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/Ms Own You",
+    "tts_language": "en"
+}
